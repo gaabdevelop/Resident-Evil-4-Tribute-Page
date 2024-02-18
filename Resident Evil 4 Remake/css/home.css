@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+body {
+  background-color: black;
+}
+
+#texture {
+  width: 100%;
+  height: 100vh;
+  background: url(../img/textura.png) center/cover;
+  filter: blur(3px);
+  position: absolute;
+}
+
+#content {
+  width: 100%;
+  height: 564px;
+  display: flex;
+  justify-content: space-around;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#content a {
+  text-decoration: none;
+  color: white;
+}
+
+#dark {
+  width: 400px;
+  height: 564px;
+  border-radius: 10px;
+  background: url(../img/dark.png) center/cover;
+  box-shadow: 3px 0 50px rgba(255, 255, 255, 0.103);
+  filter: blur(5px);
+  transition: ease 0.7s;
+  text-align: center;
+  padding-top: 50%;
+}
+
+#dark:hover {
+  filter: blur(0px);
+}
+
+h1 {
+  font-size: 50px;
+}
+
+#ligth {
+  width: 400px;
+  height: 564px;
+  border-radius: 10px;
+  background: url(../img/ligth.png) center/cover;
+  box-shadow: 3px 0 50px rgba(255, 255, 255, 0.103);
+  filter: blur(5px);
+  transition: ease 0.7s;
+  color: black;
+  text-align: center;
+  padding-top: 50%;
+}
+
+#ligth:hover {
+  filter: blur(0px);
+}
