@@ -11,6 +11,7 @@ Bem-vindo à Resident Evil 4 Tribute Page, um projeto em constante evolução de
 # 🤝Como Contribuir:
 
 Fique à vontade para fazer fork do projeto e contribuir com ideias, melhorias visuais ou novos recursos.
+
 Utilize a seção de issues para relatar problemas encontrados ou sugerir a inclusão de conteúdo específico relacionado ao Resident Evil 4.
 
 # Motivação Pessoal:
