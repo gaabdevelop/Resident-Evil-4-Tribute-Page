@@ -10,9 +10,8 @@ Bem-vindo à Resident Evil 4 Tribute Page, um projeto em constante evolução de
 
 # 🤝Como Contribuir:
 
-✅Fique à vontade para fazer fork do projeto e contribuir com ideias, melhorias visuais ou novos recursos.
-
-✅Utilize a seção de issues para relatar problemas encontrados ou sugerir a inclusão de conteúdo específico relacionado ao Resident Evil 4.
+Fique à vontade para fazer fork do projeto e contribuir com ideias, melhorias visuais ou novos recursos.
+Utilize a seção de issues para relatar problemas encontrados ou sugerir a inclusão de conteúdo específico relacionado ao Resident Evil 4.
 
 # Motivação Pessoal:
 Este projeto é uma expressão do amor que tenho pelo Resident Evil 4 e as inúmeras memórias emocionantes que esse jogo proporcionou ao longo dos anos. Cada linha de código, cada detalhe visual é inspirado na paixão que tenho por esta obra-prima do survival horror. É uma homenagem sincera e pessoal a um jogo que marcou não apenas minha jornada no mundo dos jogos, mas também a de muitos outros entusiastas.
